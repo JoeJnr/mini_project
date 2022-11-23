@@ -2,11 +2,11 @@
 MINI PROJECT
 2. Project Description
 
-1. Create food delivery and order system for a Cafe
+- Create food delivery and order system for a Cafe
 
 **CLIENT EXPECTATION**
 
-1. Drinks order system
+- Drinks order system
 
 5. **IMPROVEMENTS**
 1. Attach price value to items
