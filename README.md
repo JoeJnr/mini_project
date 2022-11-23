@@ -8,8 +8,8 @@ MINI PROJECT
 
 - Drinks order system
 
-5. **IMPROVEMENTS**
-1. Attach price value to items
-2. Make use of CSV files/import from csv
-3. Implementing MySql and integrating it into program 
-4. Apply unit testing
+ **IMPROVEMENTS**
+- Attach price value to items
+- Make use of CSV files/import from csv
+- Implementing MySql and integrating it into program 
+- Apply unit testing
